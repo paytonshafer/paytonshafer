@@ -5,7 +5,7 @@
 
 - How to reach me **paytonshafer@gmail.com**
 
-- Know about my experiences [resume](PaytonShafer.pdf)
+- Learn about my experiences [here](PaytonShafer.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
