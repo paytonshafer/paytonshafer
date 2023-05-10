@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Payton Shafer</h1>
 <h3 align="center">A Computer Science and Mathematics student and Clarkson University</h3>
 
+- I am currently working at Excellus BCBS doing Data Integration Engineering.
+
 - I’m currently learning **Machine Learning, Database Architecture**
 
 - How to reach me **paytonshafer@gmail.com**
