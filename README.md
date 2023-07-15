@@ -5,7 +5,7 @@
 
 - I’m currently learning **Machine Learning, Database Architecture**
 
-- How to reach me **paytonshafer@gmail.com**
+- I can be reached at **paytonshafer@gmail.com** or on LinkedIn
 
 - Learn about my experiences [here](PaytonShafer.pdf)
 
