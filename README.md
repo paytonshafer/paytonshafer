@@ -3,7 +3,7 @@
 
 - I am currently working at Excellus BCBS doing Data Integration Engineering.
 
-- I’m currently learning **Machine Learning, Database Architecture**
+- I’m currently learning **Design Patterns**
 
 - I can be reached at **paytonshafer@gmail.com** or on LinkedIn
 
