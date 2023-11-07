@@ -3,7 +3,7 @@
 
 - I am currently working at Skilbi as a Machine Learning Engineer.
 
-- I’m currently learning **Design Patterns**
+- I’m currently learning **Design Patterns** and **TypeScript**
 
 - I can be reached at **paytonshafer@gmail.com** or on LinkedIn
 
