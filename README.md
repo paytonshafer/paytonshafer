@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Payton Shafer</h1>
 <h3 align="center">A Computer Science and Mathematics student and Clarkson University</h3>
 
-- I am currently working at Skilbi as a Machine Learning Engineer.
+- I am graduating from Clarkson Univerity with a BS in May 2024 and am looking for my first job in NYC.
 
-- I’m currently working on **Coding Challenge Problems** and **Learning Rust**
+- I’m currently working on **Coding Challenge Problems** and **A Sudoku Web app with Auto-solver in z3**
 
 - I can be reached at **paytonshafer@gmail.com** or on LinkedIn
 
