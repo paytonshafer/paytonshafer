@@ -7,7 +7,7 @@
 
 - I’m currently working on **Data Engineering** and learning **Azure Cloud**
 
-- I can be reached at **paytonshafer@gmail.com** or on [LinkedIn](www.linkedin.com/in/shaferpr)
+- I can be reached at **paytonshafer@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/shaferpr)
 
 - Learn about my experiences [here](PaytonShafer.pdf)
 
