@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Payton Shafer</h1>
-<h3 align="center">A Computer Science and Mathematics student and Clarkson University</h3>
+<h3 align="center">A Computer Science and Mathematics Graduate with a passion for software and data</h3>
 
 - Currently looking for roles working with software or data in NYC or remote
 
