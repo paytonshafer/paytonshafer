@@ -1,11 +1,13 @@
 <h1 align="center">Hi , I'm Payton Shafer</h1>
 <h3 align="center">A Computer Science and Mathematics student and Clarkson University</h3>
 
-- I am graduating from Clarkson Univerity with a BS in May 2024 and am looking for my first job in NYC.
+- Currently looking for roles working with software or data in NYC or remote
 
-- I’m currently working on **Coding Challenge Problems** and **A Sudoku Web app with Auto-solver in z3**
+- Graduated Magna Cum Laude from Clarkson Univerity with a BS in Computer Science and Mathematics
 
-- I can be reached at **paytonshafer@gmail.com** or on LinkedIn
+- I’m currently working on **Data Engineering** and learning **Azure Cloud**
+
+- I can be reached at **paytonshafer@gmail.com** or on [LinkedIn](www.linkedin.com/in/shaferpr)
 
 - Learn about my experiences [here](PaytonShafer.pdf)
 
